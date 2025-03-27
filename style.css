@@ -1,0 +1,25 @@
+#home-page-heading{
+    background-color: rgb(213, 47, 47);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+
+body{
+    background-color: wheat;
+}
+
+.home-page-link{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:link{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(192, 71, 91);
+}
